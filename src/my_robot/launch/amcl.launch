@@ -20,8 +20,8 @@
   <param name="odom_alpha2" value="0.001"/>
   <param name="odom_alpha3" value="0.001"/>
   <param name="odom_alpha4" value="0.001"/>
-  <param name="update_min_a" value="0.1"/>
-  <param name="update_min_d" value="0.25"/>
+  <param name="update_min_a" value="pi/6.0"/>
+  <param name="update_min_d" value="0.1"/>
   <param name="laser_min_range" value="-1.0"/>
   <param name="laser_max_range" value="-1.0"/>
   <param name="laser_max_beams" value="30"/>
